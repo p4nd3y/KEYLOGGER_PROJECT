@@ -21,3 +21,5 @@
 
 ⚠️ NOTE: This tool is for educational and ethical use only. Do NOT use it on others' systems without their consent. 
 Violation of cyber laws can lead to serious legal consequences.
+
+The compiled .exe version of this project has been intentionally renamed to something less obvious (e.g., Updater.exe, SystemHost.exe, etc.). This is done purely for educational and ethical hacking demonstrations — to mimic how malicious files might try to disguise themselves on a real system.
