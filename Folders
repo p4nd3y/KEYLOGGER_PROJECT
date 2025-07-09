@@ -1,0 +1,4 @@
+keylogger_project/
+├── keylogger.exe                 ✅ Your compiled executable
+├── README.txt                   📘 Instructions file
+└── sample_keylog.txt           📄 Fake demo log file 
